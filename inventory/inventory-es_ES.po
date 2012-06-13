@@ -1,0 +1,807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventory Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-16 16:45-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fernando Balanda <fbalanda@frb.com.ar>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inventory.php:90
+msgid "Inventory"
+msgstr "Inventario"
+
+#: inventory.php:95
+#: inventory.php:919
+msgid "Manage Inventory"
+msgstr "Administrar inventario"
+
+#: inventory.php:96
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: inventory.php:98
+#: inventory.php:1433
+msgid "Manage Categories"
+msgstr "Administrar categorías"
+
+#: inventory.php:99
+msgid "Inventory Config"
+msgstr "Configuración del Inventario"
+
+#: inventory.php:99
+#: inventory.php:1077
+msgid "Inventory Options"
+msgstr "Opciones Generales"
+
+#: inventory.php:100
+#: inventory.php:2093
+msgid "Inventory Upload"
+msgstr "Subir Inventario"
+
+#: inventory.php:184
+#: inventory.php:1819
+msgid "First"
+msgstr "Primero"
+
+#: inventory.php:185
+#: inventory.php:1820
+msgid "Prev"
+msgstr "Anterior"
+
+#: inventory.php:186
+#: inventory.php:1821
+msgid "Next"
+msgstr "Siguiente"
+
+#: inventory.php:187
+#: inventory.php:1822
+msgid "Last"
+msgstr "Ultimo"
+
+#: inventory.php:197
+msgid "View Category"
+msgstr "Mirar Categoría"
+
+#: inventory.php:226
+#: inventory.php:259
+#: inventory.php:1449
+#: inventory.php:1467
+msgid "Delete"
+msgstr "Borrar"
+
+#: inventory.php:229
+msgid "Add New Item"
+msgstr "Agregar nuevo producto"
+
+#: inventory.php:250
+#: inventory.php:1565
+#: inventory.php:1664
+#: inventory.php:1982
+msgid "$"
+msgstr "$"
+
+#: inventory.php:259
+msgid "Are you sure you want to delete this item?"
+msgstr "¿Está seguro que quiere eliminar este producto?"
+
+#: inventory.php:274
+msgid "There are no inventory items in the database!"
+msgstr "No hay items en la base de datos"
+
+#: inventory.php:331
+msgid "No inventory id set."
+msgstr "No se ha facilitado identificador"
+
+#: inventory.php:336
+msgid "An item with that ID couldn't be found"
+msgstr "Item con ID no encontrado"
+
+#: inventory.php:347
+#: inventory.php:676
+msgid "Not authorized to edit this item."
+msgstr "No tienes autorización para editar este producto."
+
+#: inventory.php:392
+msgid "Add Image"
+msgstr "Añadir una imagen"
+
+#: inventory.php:398
+msgid "Create Thumbnail"
+msgstr "Crear Miniatura"
+
+#: inventory.php:406
+#: inventory.php:2270
+msgid "Item Description"
+msgstr "Descripción del Producto"
+
+#: inventory.php:417
+msgid "Added Date"
+msgstr "Fecha añadida"
+
+#: inventory.php:426
+msgid "Select Date"
+msgstr "Seleccione Fecha"
+
+#: inventory.php:431
+msgid "Display Order"
+msgstr "Mostrar en Orden"
+
+#: inventory.php:437
+#: inventory.php:2273
+msgid "Item Price"
+msgstr "Precio del producto"
+
+#: inventory.php:451
+#: inventory.php:1662
+#: inventory.php:2274
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: inventory.php:499
+msgid "Owner E-mail"
+msgstr "Correo Electrónico del Dueño"
+
+#: inventory.php:505
+msgid "Item Reserved"
+msgstr "Producto Reservado"
+
+#: inventory.php:512
+#: inventory.php:1281
+#: inventory.php:1395
+#: inventory.php:1431
+msgid "Save"
+msgstr "Guardar"
+
+#: inventory.php:692
+msgid "An image with that ID couldn't be found"
+msgstr "Item con ID no encontrada"
+
+#: inventory.php:785
+#: inventory.php:840
+#: inventory.php:878
+#: inventory.php:894
+msgid "Error"
+msgstr "Error"
+
+#: inventory.php:785
+msgid "The item name must be between 1 and 100 characters in length and contain no punctuation. Spaces are allowed but the title must not start with one."
+msgstr "El nombre del item debe tener entre 1 y 100 caracteres de largo, y no contener signos de puntuación. Lo espacios están permitidos, pero el título no puede comenzar con uno."
+
+#: inventory.php:841
+msgid "An item with the details you submitted could not be found in the database. This may indicate a problem with your database or the way in which it is configured."
+msgstr "No se encontro en la base de datos, el item con los detalles descriptos. Esto puede indicar un problema con la base de datos, o la forma en qu esta configurada."
+
+#: inventory.php:849
+msgid "Inventory item "
+msgstr "Item de Inventario"
+
+#: inventory.php:849
+msgid "View Inventory"
+msgstr "Mirar Inventario"
+
+#: inventory.php:878
+msgid "You can't delete an item if you haven't submitted an event id"
+msgstr "No se puede borrar un item, si no se encuentra el ID del evento."
+
+#: inventory.php:890
+msgid "Item deleted successfully"
+msgstr "¡Producto borrado con éxito!"
+
+#: inventory.php:894
+msgid "Despite issuing a request to delete, the item still remains in the database. Please investigate."
+msgstr "A pesar del requerimiento de borrar un item, el mismo continúa en la base de datos. Por favor, investigar."
+
+#: inventory.php:906
+msgid "Edit Inventory Item"
+msgstr "Editar producto"
+
+#: inventory.php:909
+msgid "You must provide an item id in order to edit it"
+msgstr "Debe proporcionar un ID de item para poder editarlo"
+
+#: inventory.php:914
+msgid "Add Inventory Item"
+msgstr "Agregar nuevo producto"
+
+#: inventory.php:997
+msgid "Settings saved"
+msgstr "Ajustes guardados."
+
+#: inventory.php:1081
+msgid "All Options"
+msgstr "Todas las Opciones"
+
+#: inventory.php:1082
+msgid "General"
+msgstr "General"
+
+#: inventory.php:1083
+msgid "Display"
+msgstr "Preferencias de Pantalla"
+
+#: inventory.php:1084
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inventory.php:1085
+msgid "Reserve"
+msgstr "Reservar"
+
+#: inventory.php:1086
+msgid "Style"
+msgstr "Estilo"
+
+#: inventory.php:1098
+msgid "Page your inventory displays on"
+msgstr "Muestra la página del inventario"
+
+#: inventory.php:1099
+msgid "So the links to your item details work properly.  This is the page that should have the {INVENTORY} shortcode installed on it."
+msgstr "Para que los links de los detalles de los items del inventario trabajen adecuadamente. Esta es la página que debe contener el shortcode {INVENTORY} colocado."
+
+#: inventory.php:1100
+msgid "Warning: you may experience problems with links if this is not set to a specific page"
+msgstr "Atención: puede experimentar problemas con los enlaces, si no se indica una página específica"
+
+#: inventory.php:1105
+msgid "None"
+msgstr "Ninguno"
+
+#: inventory.php:1105
+msgid "Multiple Pages"
+msgstr "Páginas múltiples"
+
+#: inventory.php:1111
+msgid "Lowest user group that may manage inventory"
+msgstr "El grupo mas bajo que puede administrar el inventario"
+
+#: inventory.php:1115
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: inventory.php:1116
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: inventory.php:1117
+msgid "Author"
+msgstr "Autor"
+
+#: inventory.php:1118
+msgid "Editor"
+msgstr "Editor"
+
+#: inventory.php:1119
+msgid "Administrator"
+msgstr "Administrador"
+
+#: inventory.php:1125
+msgid "Limit ability to edit to same user that added item?"
+msgstr "Permitir que solo el usuario que creo el item, pueda modificarlo ?"
+
+#: inventory.php:1126
+msgid "Yes: Only Admin and the user who entered item may edit.<br>No: Any user may edit."
+msgstr "Si: solo el administrador y el usuario pueden editar el ítem. <br>No: Cualquier usuario pude editar."
+
+#: inventory.php:1137
+msgid "Number of Items per page"
+msgstr "Número de items por página"
+
+#: inventory.php:1138
+msgid "The number of items per page.<br>Leave as zero/blank for no limit."
+msgstr "Cantidad de ítems por página. <br>Deje en cero/blanco si no desea limites."
+
+#: inventory.php:1146
+msgid "Placeholder Image"
+msgstr "Añadir una imagen"
+
+#: inventory.php:1146
+msgid "Shown if there is no image for an item.<br>Leave blank to not use this feature."
+msgstr "Imagen por defecto, si no se ha indicado ninguna para un ítem. <b>Deje en blanco, si no desea usar esta característica."
+
+#: inventory.php:1158
+msgid "Display Options"
+msgstr "Opciones de visualización"
+
+#: inventory.php:1163
+msgid "Display as spreadsheet"
+msgstr "Mostrar como tabla"
+
+#: inventory.php:1200
+msgid "Custom Labels"
+msgstr "Etiquetas personalizadas"
+
+#: inventory.php:1219
+msgid "Reserve Item Options"
+msgstr "Opciones de reserva de productos"
+
+#: inventory.php:1229
+msgid "Allows user to enter a quantity when reserving."
+msgstr "Permitir a los usuarios ingresar la cantidad al hacer una reserva."
+
+#: inventory.php:1232
+msgid "For a drop-down, enter multiple items separated by commas.<br>For example \"bottles, cases"
+msgstr "En el menu descolgable, ingrese múltiples ítems separados por comas.<br>Por ejemplo \"botellas, casos"
+
+#: inventory.php:1242
+msgid "E-mail address to send to"
+msgstr "Dirección de email adonde enviar"
+
+#: inventory.php:1243
+msgid "The admin/shop owner e-mail address that is used when<br>someone reserves an item."
+msgstr "El correo electrónico sera usado cuando <b> alguien reserve un ítem."
+
+#: inventory.php:1251
+msgid "E-mail item owner also?"
+msgstr "Enviar correo electrónico también?"
+
+#: inventory.php:1252
+msgid "When reserving an item, an e-mail will also be sent to the <br>owner's e-mail address entered for the Inventory Item."
+msgstr "Cuando ser reserver un ítem, un correo electrónico sera enviado a la <b>direccion de e-mail configurada en el Item del Inventario."
+
+#: inventory.php:1256
+#: inventory.php:1296
+msgid "Yes"
+msgstr "Si"
+
+#: inventory.php:1257
+#: inventory.php:1298
+msgid "No"
+msgstr "No"
+
+#: inventory.php:1267
+msgid "Stylesheet Settings"
+msgstr "Opciones de tabla"
+
+#: inventory.php:1271
+msgid "Configure the stylesheet for Inventory Display"
+msgstr "Configure la tabla para mostrar el inventario"
+
+#: inventory.php:1308
+msgid "Not Used"
+msgstr "Sin uso"
+
+#: inventory.php:1312
+msgid "Do Not Display"
+msgstr "No mostrar"
+
+#: inventory.php:1360
+msgid "Category added successfully"
+msgstr "Categoría añadida con éxito"
+
+#: inventory.php:1368
+msgid "Category deleted successfully"
+msgstr "Categoría borrada con éxito"
+
+#: inventory.php:1376
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: inventory.php:1384
+#: inventory.php:1420
+#: inventory.php:1446
+msgid "Category Name"
+msgstr "Nombre de categoría"
+
+#: inventory.php:1388
+#: inventory.php:1424
+msgid "Category Colour (Hex format)"
+msgstr "Color de la Categoría (Formato Hexadecimal)"
+
+#: inventory.php:1404
+msgid "Category edited successfully"
+msgstr "Categoría editada correctamente."
+
+#: inventory.php:1412
+msgid "Add Category"
+msgstr "Añadir categoría"
+
+#: inventory.php:1445
+msgid "ID"
+msgstr "ID"
+
+#: inventory.php:1447
+msgid "Category Colour"
+msgstr "Color de la Categoría"
+
+#: inventory.php:1448
+#: inventory.php:1461
+msgid "Edit"
+msgstr "Editar"
+
+#: inventory.php:1463
+msgid "N/A"
+msgstr "N/A"
+
+#: inventory.php:1466
+msgid "Are you sure you want to delete this category?"
+msgstr "¿Está seguro que quiere eliminar esta categoría?"
+
+#: inventory.php:1473
+msgid "There are no categories in the database - something has gone wrong!"
+msgstr "No hay categorías en la base de datos - algo debe estar mal!"
+
+#: inventory.php:1538
+msgid "Back to Item List"
+msgstr "Volver a la lista"
+
+#: inventory.php:1564
+#: inventory.php:1981
+#: inventory.php:2044
+msgid "Description"
+msgstr "Descripción"
+
+#: inventory.php:1650
+msgid "Item Reservation"
+msgstr "Reserva de producto."
+
+#: inventory.php:1651
+msgid "The following person would like to reserve an item"
+msgstr "La siguiente persona desea reservar un item"
+
+#: inventory.php:1654
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inventory.php:1655
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#: inventory.php:1664
+#: inventory.php:1982
+#: inventory.php:2045
+msgid "Price"
+msgstr "Precio"
+
+#: inventory.php:1670
+msgid "No e-mail configured in Inventory Options."
+msgstr "No hay correo electrónico indicado en las opciones del inventario"
+
+#: inventory.php:1677
+msgid "Reservation request sent.  Thank you!"
+msgstr "Se envio el pedido de reserva. Muchas Gracias!"
+
+#: inventory.php:1856
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: inventory.php:1867
+msgid "Categories"
+msgstr "Categorías"
+
+#: inventory.php:1870
+msgid "Category"
+msgstr "Categoría"
+
+#: inventory.php:1879
+msgid "Inventory Search Results for"
+msgstr "Resultados de busqueda para"
+
+#: inventory.php:2000
+msgid "Inventory Plugin Instructions"
+msgstr "Instrucciones del Plugin"
+
+#: inventory.php:2001
+msgid "Displaying Inventory in a Page"
+msgstr "Mostrar inventario en la página"
+
+#: inventory.php:2002
+msgid "To display inventory on a page, simply add the shortcode <code>{INVENTORY}</code> at the location in the page you would like the inventory to display."
+msgstr "Para mostrar el inventario en una página, simplemente agregue el shortcode <code>{INVENTORY}</code> en la posicion de la página donde dese que se muestre el mismo."
+
+#: inventory.php:2003
+msgid ""
+"To display inventory from only a single category, or sorted a certain way, you can use some parameters, like so: </p>\n"
+"\t<p><code>{INVENTORY}</code> will cause the page to list all items, sorted by the Order field.\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=2</span>}</code> will cause the page to list ONLY those items in category with id #2\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=logging</span>}</code> will list ONLY those items in the Logging category\n"
+"\t\t\t\t<br><code>{INVENTORY <span>items_per_page=3</span>}</code> will over-ride the Configuration items per page, and only list 3 items per page\n"
+"\t\t\t\t<br><code>{INVENTORY <span>sort=number</span>}</code> will over-ride the Configuration sorting, and sort items by their number (most fields work - see complete sort field listing below)\n"
+"\t\t\t\t<br><code>{INVENTORY <span>display=spreadsheet</span>}</code> will over-ride the Configuration display, display the listing in a spreadsheet\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=general;items_per_page=5;sort=date desc; display=normal</span>}</code> will list ONLY items from General category, 5 items per page, sorted by date added descending, displaying as individual divs (instead of spreadsheet style).  <strong>Note the semi-colons used to separate the parameters.</strong>"
+msgstr ""
+"Para mostrar el inventario desde una sola categoría u ordenado de una manera en particular, pueden usarse algunos parámetros, tales como: </p>\n"
+"\t<p><code>{INVENTORY}</code> la página mostrara todos los items del inventario, ordenado por campo ORDER.\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=2</span>}</code> se mostrarán solo los ítems de la categoría con id #2\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=logging</span>}</code>  se mostrarán solo los ítems de la categoría loggin\n"
+"\t\t\t\t<br><code>{INVENTORY <span>items_per_page=3</span>}</code> mostrará solo 3 ítems por página\n"
+"\t\t\t\t<br><code>{INVENTORY <span>sort=number</span>}</code> mostrará los datos ordenados por el campo number\n"
+"\t\t\t\t<br><code>{INVENTORY <span>display=spreadsheet</span>}</code> muestra el inventario en forma de tabla de datos\n"
+"\t\t\t\t<br><code>{INVENTORY <span>category=general;items_per_page=5;sort=date desc;display=normal</span>}</code> solo mostrara los ítems de la categoria Geeral, 5 íteems en cada página, ordenado por fecha en forma descendente, y mostrando los ítems en formulario en lugar de tabla.  <strong>Observe los punto y coma entre los parámetros, y la ausencia de espacios en blanco entre ellos.</strong>"
+
+#: inventory.php:2011
+msgid "Customizing the Display of Your Inventory"
+msgstr "Diseñando la forma de mostrar el Inventario"
+
+#: inventory.php:2012
+msgid "There&rsquo;s lots of settings in the <a href=\""
+msgstr "Hay&rsquo;s muchas configuraciones en <a href=\""
+
+#: inventory.php:2014
+msgid "Adding Inventory to Your WordPress Search Results"
+msgstr "Agregando el Inventario a los resultados de búsqueda de WordPress"
+
+#: inventory.php:2015
+msgid ""
+"After much thrashing around trying to hack together a more automatic way, it became clear that the cleanest, best, and really ONLY way to add inventory items to your WordPress search results is through a slight modification to the search.php template file.  All you need to do is put this line of code in the search.php template file where you want the search results to display: <code>&lt;?php inventory_display(); ?&gt;</code></p>\n"
+"\t<p>See below for an example, based on the code from the Twenty-Ten theme:"
+msgstr ""
+"Después de mucho rodar por ahí tratando de buscar juntos una manera más automática, se hizo evidente que la mejor, y realmente única manera de agregar los artículos del inventario a los resultados de la búsqueda de WordPress es a través de una pequeña modificación al archivo de plantilla search.php. Todo lo que necesitas hacer es poner esta línea de código en el archivo de plantilla search.php donde desea que los resultados de búsqueda se puedan mostrar: <code>&lt;?php inventory_display(); ?&gt;</code></p>\n"
+"\t<p>Vea a continuación un ejemplo, basado en el código desde el Tema Twenty-Ten:"
+
+#: inventory.php:2060
+#: inventory.php:2072
+msgid "Confirm Database Purge"
+msgstr "Confirmar borrado de la base de datos"
+
+#: inventory.php:2068
+msgid "Yes - Proceed"
+msgstr "Si - Continuar"
+
+#: inventory.php:2069
+msgid "No! Cancel!"
+msgstr "No! Cancelar!"
+
+#: inventory.php:2075
+msgid "CONFIRM - DELETE MY INVENTORY"
+msgstr "¿Confirma el borrado del inventario?"
+
+#: inventory.php:2079
+msgid "Database Purged"
+msgstr "Base de datos eliminada"
+
+#: inventory.php:2080
+msgid "The database has been purged"
+msgstr "La base de datos ha sido eliminada"
+
+#: inventory.php:2081
+msgid "All inventory items removed"
+msgstr "Se han removido todos los items del inventario"
+
+#: inventory.php:2082
+msgid "All inventory image records removed (images were NOT deleted)"
+msgstr "Se han removido todas las referencias a las imágenes (las imágenes no fueron borradas)"
+
+#: inventory.php:2083
+msgid "All categories removed (except default \"General\" category)"
+msgstr "Se removieron todas las categorías (excepto default \"General\" category)"
+
+#: inventory.php:2100
+msgid "The file must be csv or txt format."
+msgstr "El archivo debe tener el formato csv o txt."
+
+#: inventory.php:2147
+msgid "You must have a field for &ldquo;Inventory Number&rdquo;"
+msgstr "Debe tener un campo para &ldquo;Inventory Number&rdquo;"
+
+#: inventory.php:2148
+msgid "You must have a field for &ldquo;Inventory Name&rdquo;."
+msgstr "Debe tener un campo para &ldquo;Inventory Name&rdquo;"
+
+#: inventory.php:2152
+msgid "You have indicated the same field twice for"
+msgstr "Ha indicado el mismo campo dos veces para"
+
+#: inventory.php:2159
+#: inventory.php:2255
+msgid "Unable to open uploaded file!"
+msgstr "No se puede abrir el archivo subido!"
+
+#: inventory.php:2225
+msgid "Success"
+msgstr "¡Lo lograste!"
+
+#: inventory.php:2226
+msgid "records imported"
+msgstr "registros importados"
+
+#: inventory.php:2239
+msgid "Sample rows from your file"
+msgstr "Lineas de ejemplo de su archivo"
+
+#: inventory.php:2261
+msgid "Warning! Your file appears to be comma separated.  Be certain that any number fields do not contain commas (such as 1,500)"
+msgstr "Atencion: El archivo parece separado por comas. Asegúrese que ningun campo contenga comas (Ej, 1,500)"
+
+#: inventory.php:2267
+msgid "Select Field"
+msgstr "Seleccionar el Campo"
+
+#: inventory.php:2268
+msgid "Item Number"
+msgstr "Número de Item:"
+
+#: inventory.php:2269
+msgid "Item Name"
+msgstr "Nombre del Item"
+
+#: inventory.php:2271
+msgid "Item Sort Order"
+msgstr "Tipo de ordenamiento del Item"
+
+#: inventory.php:2272
+msgid "Item Size"
+msgstr "Tamaño del Item"
+
+#: inventory.php:2275
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+#: inventory.php:2276
+msgid "FOB"
+msgstr "FOB"
+
+#: inventory.php:2277
+msgid "Make"
+msgstr "Hacer"
+
+#: inventory.php:2278
+msgid "Model"
+msgstr "Modelo"
+
+#: inventory.php:2279
+msgid "Year"
+msgstr "Año"
+
+#: inventory.php:2280
+msgid "Serial #"
+msgstr "# Serie"
+
+#: inventory.php:2281
+msgid "Owner e-mail"
+msgstr "Dirección de Correo Electrónico"
+
+#: inventory.php:2282
+msgid "Image Name"
+msgstr "Nombre de la Imagen"
+
+#: inventory.php:2283
+msgid "Category ID (NOT name!)"
+msgstr "ID de la Categoria (NO el nombre)"
+
+#: inventory.php:2324
+msgid "Map the columns to the appropriate Inventory Item fields using the drop-down boxes, then click"
+msgstr "Relacione las columnas con los campos apropiados del Inventario, usando las cajas de diálogo, y luego haga click"
+
+#: inventory.php:2324
+#: inventory.php:2326
+msgid "Go!"
+msgstr "Adelante!"
+
+#: inventory.php:2324
+msgid "to import"
+msgstr "para importar"
+
+#: inventory.php:2325
+msgid "This file contains a Title Row"
+msgstr "Este archivo contiene una fila de títulos"
+
+#: inventory.php:2332
+msgid "Upload a file to quickly add inventory items"
+msgstr "Subir un archivo para agregar rápidamente items al inventario"
+
+#: inventory.php:2333
+msgid "Requirements"
+msgstr "Requerimientos"
+
+#: inventory.php:2335
+msgid ".csv or .txt file format"
+msgstr "archivo con formato .csv o .txt"
+
+#: inventory.php:2336
+msgid "Comma or tab-separated"
+msgstr "Separado por comas o tabuladores"
+
+#: inventory.php:2337
+msgid "You will be prompted to identify/map fields once file is uploaded"
+msgstr "Deberá identificar y relacionar los campos, una vez que se suba el archivo"
+
+#: inventory.php:2339
+msgid "File to Upload"
+msgstr "Archivo a Subir"
+
+#: inventory.php:2340
+msgid "Upload"
+msgstr "Subir"
+
+#: inventory.php:2341
+#: inventory.php:2343
+msgid "Purge Database"
+msgstr "Borrar la base de datos"
+
+#: inventory.php:2342
+msgid "If you would like to purge all of the data from the database for a fresh import, click the link below."
+msgstr "Si desea borrar todos los datos de la base de datos, para importar desde cero, haga click en el enlace de abajo."
+
+#: inventory.php:2403
+msgid "Warning! NOT an image file! File not uploaded."
+msgstr "Atencion! No es un archivo tipo imagen! Archivo no subido."
+
+#: inventory.php:2431
+msgid "The save-to path doesn't exist.... attempting to create..."
+msgstr "El directorio de subidas no existe, intentando crear..."
+
+#: inventory.php:2435
+msgid "The save-to directory"
+msgstr "Directorio de guardado"
+
+#: inventory.php:2435
+msgid "does not exist, and could not be created automatically"
+msgstr "no existe, y no puede crearse automaticament"
+
+#: inventory.php:2441
+msgid "already exists"
+msgstr "ya existe"
+
+#: inventory.php:2448
+msgid "The file is too big. (php.ini)"
+msgstr "El archivo es muy grande (php.ini)"
+
+#: inventory.php:2451
+msgid "The file is too big. (form)"
+msgstr "El archivo es demasiado grande. (form)"
+
+#: inventory.php:2454
+msgid "Only part of the file was uploaded"
+msgstr "Sólo se ha podido subir una parte del archivo."
+
+#: inventory.php:2457
+msgid "No file was uploaded"
+msgstr "No se ha subido ningún archivo."
+
+#: inventory.php:2460
+msgid "Missing a temporary folder."
+msgstr "Falta un directorio temporal."
+
+#: inventory.php:2463
+msgid "Failed to write file to disk"
+msgstr "El archivo no se ha podido grabar en el disco."
+
+#: inventory.php:2466
+msgid "File upload stopped by extension"
+msgstr "Subida de archivo detenida a causa de la extensión."
+
+#: inventory.php:2480
+msgid "Unable to write uploaded file.  Check permissions on upload directory."
+msgstr "No se puede escribir el archivo subido. Verifique los permisos del directorio de subidas."
+
+#: inventory.php:2490
+msgid "Image deleted"
+msgstr "¡Imagen Borrada!"
+
+#: inventory.php:2490
+msgid "Image not found to delete"
+msgstr "No se encontro la imagen a borar"
+
+#: inventory.php:2492
+msgid "File"
+msgstr "Archivo"
+
+#: inventory.php:2492
+msgid "could not be deleted (does not exist)"
+msgstr "no pudo borrarse (no existe)"
+
+#: inventory.php:2967
+msgid "inventory"
+msgstr "inventario"
+
+#: inventory.php:2977
+msgid "Title"
+msgstr "Título"
+
+#: inventory.php:2978
+msgid "Inventory Page"
+msgstr "Página de Inventario"
+
+#~ msgid "Item Detail"
+#~ msgstr "Nombre del producto"
+#~ msgid "Show Only"
+#~ msgstr "Mostrar solo"
+

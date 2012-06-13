@@ -1,0 +1,3 @@
+"Number"	"Name"	"PDF"	"Description"	"Image"	"Order"	"categoryid"	"price"	"manufacturer"	"size"	"quantity"	"make"	"model"	"year"	"serial"	"FOB"
+"55Chev"	"1955 Chevy"	"specifications.pdf"	"1955 Chevy.  Who doesn't love these cars?"	"1955_front.jpg, 1955_side.jpg, 1955_back.jpg"	5	2	15000	"Chevrolet"	350	1	"Chevy"	"Coupe"	1955	123456789	"Broomfield, CO"
+"64Must"	"1964 Mustang"	"ford_mustang_specs.pdf"	"1964 Ford Mustang"	"1964_lights.jpg, 1964_dash.jpg"	4	3	17000	"Ford"	289	1	"Ford"	"Mustang"	1964	54546545	"Broomfield, CO"
